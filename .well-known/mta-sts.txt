@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mx1.rayasset.tld
-mx: mx2.rayasset.tld
+*.mail.eo.outlook.com
 max_age: 1209600
