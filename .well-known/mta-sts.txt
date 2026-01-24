@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-rayasset-com.mail.protection.outlook.com
+mx: rayasset-com.mail.protection.outlook.com
 max_age: 1209600
